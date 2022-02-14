@@ -59,7 +59,7 @@
         android:layout_marginStart="56dp"
         android:layout_marginLeft="56dp"
         android:layout_marginTop="32dp"
-        android:background="#E3C000"
+        android:backgroundTint="#E3C000"
         android:text="LOGIN"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView3" />
@@ -72,7 +72,7 @@
         android:layout_marginLeft="104dp"
         android:layout_marginTop="32dp"
         android:text="sign up"
-        android:background="#E3C000"
+        android:backgroundTint="#E3C000"
         app:layout_constraintStart_toEndOf="@+id/button"
         app:layout_constraintTop_toBottomOf="@+id/textView3" />
 
